@@ -3,6 +3,7 @@ public class ejemplo {
         System.out.println("Dídac");
         System.out.println("19");
         System.out.println("León");
+        System.out.println("octubre");
     }
 
 }
